@@ -1,3 +1,4 @@
+// A simple sniper code
 import processing.sound.*;
 
 SoundFile shooter;
